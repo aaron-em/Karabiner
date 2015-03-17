@@ -336,4 +336,10 @@
     <productid>0x0007</productid>
   </deviceproductdef>
 
+  <!-- NB vendor ID is that of Filco (0x04d9), already defined in devicevendordef.xml -->
+  <deviceproductdef>
+    <productname>Rosewill_RK9000</productname>
+    <productid>0x2323</productid>
+  </deviceproductdef>
+    
 </root>
